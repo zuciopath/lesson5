@@ -1,0 +1,170 @@
+.parentdiv{
+	max-width: 1170px;
+	width: 100%;
+	margin: 98px auto;
+}
+.stick{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.photo{
+	width: 100%;
+	height: 460px;
+}
+.banner{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.name{
+	margin: 117px 0 0;}
+
+	.name1{
+		font-size: 24px;
+		margin: 50px 0 0;
+	}
+
+
+
+	.indexname2{
+		font-family: 'Piedra';
+		font-size: 22px;
+		padding: 20px;
+	}
+
+	.divmain1 p{
+		width: 355px;
+		display: inline-block;
+		vertical-align: top;	
+	}
+
+	.font:{
+		font-size: 20px;
+		vertical-align: top;
+		padding: 60px;
+	}
+
+	.divmain1 img{
+		height: 117px;
+	}
+	.divmain1{
+
+		display: inline-block;
+		padding: 20px;
+	}
+
+	.divmain2{
+		display: inline-block;
+		padding: 20px;
+
+	}
+
+	.childdiv{
+		background-color: #F2F2F2;
+		display: inline-block;
+		width: 570px;
+		margin-top: 50px;
+		margin-right: 20px;
+
+	}
+	.childdiv2{
+		background-color: #F2F2F2;
+		display: inline-block;
+		width: 570px;
+	}
+
+	.footer{
+		margin-top: 70px;
+	}
+
+	.iconfinger{
+		vertical-align: middle;
+		margin-left: 38px;
+	}
+
+	.header{
+		display: inline-block;
+	}
+
+	.mainlogo{
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.main{
+		display: inline-block;
+		vertical-align: middle;
+		margin-left: 20px;
+	}
+
+	.maylogo{
+		background-color: #3D58A6;
+	}
+
+	.logotext{
+		padding-bottom: 35px;
+	}
+
+	.textname{
+		font-size: 20px;
+		padding-bottom: 20px;
+	}
+
+	.box{
+		display: inline-block;
+		padding-bottom: 20px;
+	}
+
+	.fontss{
+		font-size: 16px;
+		display: inline-block;
+		width : 890px;
+		padding-left: 40px;
+		vertical-align: top;
+	}
+
+	.note{
+
+	}
+
+	.contactinfo{
+		padding-top: 60px;
+		margin-left: 75px;
+		display: inline-block;
+	}
+	.contactparent{
+        width: 1280px;
+		height: 570px;
+		background-color: #E6E6E6;
+	}
+
+	.contactfooter{
+		margin-top: 32px;
+		margin-left: 20px;
+		margin-bottom: 46px;
+	}
+
+	.fonts2{
+		font-size: 16px;
+		display: inline-block;
+		width : 890px;
+		padding-left: 40px;
+		padding-top: 20px;
+    }		
+
+	.contact1{
+		padding-bottom: 10px;
+		
+	}	
+.maincontactparent{
+		padding-top: 25px;
+		padding-bottom: 32px;
+		padding-right: 25px;
+	}	
+	
+	.iframe-box{
+		display: inline-block;
+		margin-left: 51px;
+		margin-top: 42.5px;
+	}
+
